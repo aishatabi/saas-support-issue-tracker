@@ -8,6 +8,18 @@ This project is a beginner-friendly support issue tracker designed to simulate h
 
 It allows a support agent to capture customer issues, categorise them, track priority and status, add investigation notes, mark whether escalation is needed and review issues in a simple dashboard.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### New Issue Form
+![New Issue Form](screenshots/new-issue-form.png)
+
+### Update Issue
+![Update Issue](screenshots/update-issue.png)
+
+
 ## Why I Built This
 
 I built this project to practise technical support workflows used in SaaS companies, including issue triage, documentation, escalation handling and basic database use.
